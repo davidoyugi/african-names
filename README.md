@@ -1,6 +1,4 @@
-# african-names# 
-
-NAMING(AKAN METHOLOGY)
+# NAMING(AKAN METHOLOGY)
 #### This website enables you to compute and get yur name through date of birth. yy/day/date.
 enjoy
 
